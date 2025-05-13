@@ -5,10 +5,10 @@ This project focuses on detecting common spelling mistakes in Arabic words using
 
 # Features
 
-	•	Compares user input with a reference dataset of correct Arabic words.
-	•	Detects character-level differences such as substitutions, insertions, and deletions.
-	•	Outputs suggested corrections or flags input as incorrect.
-	•	Lightweight and adaptable for further development.
+	• Compares user input with a reference dataset of correct Arabic words.
+	• Detects character-level differences such as substitutions, insertions, and deletions.
+	• Outputs suggested corrections or flags input as incorrect.
+	• Lightweight and adaptable for further development.
 
 
 # Technologies Used
