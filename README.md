@@ -1,7 +1,6 @@
-# Project Overview
+# Arabic Spelling Mistake Analysis
 
-This project focuses on detecting common spelling mistakes in Arabic words using a custom-built algorithm. The solution compares input words to a predefined list of correct words and identifies likely mistakes based on character mismatches and linguistic patterns. It provides insights for improving text input accuracy and can be adapted for educational or correctional purposes.
-
+Arabic Spelling Mistake Analysis is a project focused on detecting common spelling errors in Arabic words using a custom-built algorithm. The system compares input words against a predefined list of correct terms, identifying likely mistakes based on character differences and linguistic patterns. It offers valuable insights for improving text input accuracy and can be adapted for educational tools or automated correction systems.
 
 # Features
 
